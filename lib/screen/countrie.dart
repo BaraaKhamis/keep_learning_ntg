@@ -35,6 +35,7 @@ class _SportsListPageState extends State<SportsListPage> {
     });
     setState(() {
       isLoading = false;
+
     });
   }
   @override
